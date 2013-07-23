@@ -1,51 +1,51 @@
 7L-ads-Post
 ===========
 
-7l Ads Post merupakan plugin wordpress yang berfungsi untuk memasang ads atau iklan pada post dan widget wordress dan dapat menubah link sesi penulis articel
+7l Ads Post is a wordpress plugin whose function is to advertise the post and widget wordress and can change within their link post author
 
 
-Cara Mengunakan Plugin adalah . 
+How to use this plugin.
 
-Silahkan klik Ads Post Setting . berikut fungsi2 yang ada di ads post setting
+Please click Post Ads Settings. The following ads fungsi2 is in post setting
 
-Admin Url Ads default 
-   
-	Adalah default link yang akan tampil apabila admin tidak mengisi affliet link
+Admin Url Ads default
 
-Ads Post (1) 
-	
-	Adsen yang keluar pada post di posisi 1 di posis paling atas . dan ubah link menjadi {link}
-	
-	contoh : 
-		
-		<a href="http://google.com"><img src="/img/google.jpg"></a>
+The default is the link that will appear when the admin does not charge affliet link
 
-		menjadi 
+Ads Post (1)
 
-		<a href="{link}"><img src="/img/google.jpg"></a>
+Adsen that came out in the post in position 1 in the top posis. and change the link to {link}
 
-ads Post (2)
+example:
 
-		
-	Adsen yang keluar pada post di posisi 2 di posis paling bawah . dan ubah link menjadi {link}
-	
-	contoh : 
-		
-		<a href="http://google.com"><img src="/img/google.jpg"></a>
+	<a href="http://google.com"> <img src="/img/google.jpg"> </ a>
 
-		menjadi 
+	changed to
 
-		<a href="{link}"><img src="/img/google.jpg"></a>
+	<a href="{link}"> <img src="/img/google.jpg"> </ a>
+
+	Post ads (2)
 
 
-Untuk Memasang ads widget di posisi 3 atau di sidebar . silahkan masuk ke Appearance >> widget dan drag Ads Post ke sidebar yang anda inginkan
+Adsen that came out in the post in position 2 in the bottom posis. and change the link to {link}
 
-Isi Ads Widget deganan ads yang anda inginkan dan ubah link anda menjadi {link} 
+example:
 
-	contoh : 
-		
-		<a href="http://google.com"><img src="/img/google.jpg"></a>
+	<a href="http://google.com"> <img src="/img/google.jpg"> </ a>
 
-		menjadi 
+	changed to
 
-		<a href="{link}"><img src="/img/google.jpg"></a>
+	<a href="{link}"> <img src="/img/google.jpg"> </ a>
+
+
+To Install the widget ads in position 3 or in the sidebar. Please go to Appearance >> Post Ads widget and drag it to the sidebar you want
+
+Widget Ads ads deganan contents you wish and change your link to {link}
+
+example:
+
+	<a href="http://google.com"> <img src="/img/google.jpg"> </ a>
+
+changed to
+
+	<a href="{link}"> <img src="/img/google.jpg"> </ a>

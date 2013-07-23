@@ -4,7 +4,7 @@
 7l Ads Post is a wordpress plugin whose function is to advertise the post and widget wordress and can change within their link post author
 
 
-How to use this plugin.
+## How to use this plugin.
 
 Please click Post Ads Settings. The following ads fungsi2 is in post setting
 
